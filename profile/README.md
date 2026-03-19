@@ -132,7 +132,7 @@ The long-term goal is to automate this process with **Azure DevOps pipelines**. 
 
 ## 📚 Documentation
 
-Full guidance on all of the above is documented in the **[GitHub Best Practices Guide](https://github.com/SAMES-Americas/SamesGitHubDocumentation)** located in the **SamesGitHubDocumentation** repository. All contributors are expected to review that document before working in this organization.
+Full guidance on all of the above is documented in the **[GitHub Best Practices Guide](https://github.com/Sames-Americas/SamesGithubDocumention)** located in the **SamesGithubDocumentation** repository. All contributors are expected to review that document before working in this organization.
 
 ---
 
